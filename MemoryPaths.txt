@@ -1,2 +1,2 @@
 location https://raw.githubusercontent.com/LuckyWorks/ChatCoreData/master/LocationMM.txt
-schedule https://raw.githubusercontent.com/LuckyWorks/ChatCoreData/master/scheduleMM.txt
+schedule https://raw.githubusercontent.com/LuckyWorks/ChatCoreData/master/ScheduleMM.txt
